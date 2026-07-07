@@ -181,4 +181,4 @@ Based on the above findings, the following actions are recommended:
 ---
 
 ## Disclaimer
-This project was originally performed using internal Prolec-GE production data. The dataset has been replaced with a representative simulation to protect proprietary information. The analytical structure, KPIs, and methodology reflect the actual work performed.
+This project was originally developed using internal Prolec-GE production data. To protect confidential and proprietary information, all datasets, identifiers, and business-specific details have been replaced with representative simulated data. The analytical approach, KPIs, workflow, and methodology accurately reflect the engineering work performed..
