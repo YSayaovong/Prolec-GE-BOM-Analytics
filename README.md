@@ -2,7 +2,7 @@
 
 ## 1. Project Background
 
-As a data analyst embedded in a manufacturing operations environment, I was tasked with surfacing the true cost and frequency of BOM (Bill of Materials) errors — issues that quietly drain engineering and production resources while slowing delivery timelines.
+This independent portfolio project simulates a manufacturing analytics assignment focused on identifying BOM errors, measuring rework impact, monitoring resolution performance, and improving engineering release integrity.
 
 Engineering and manufacturing teams generate significant operational data across BOM revisions, error logs, rework events, and resolution workflows. This data had previously been tracked in siloed spreadsheets with no unified view. This project consolidates, models, and analyzes that data to answer three critical business questions:
 
